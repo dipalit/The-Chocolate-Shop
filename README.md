@@ -14,10 +14,4 @@ The Chocolate Shop was founded in 2010 by a group of chocolate enthusiasts who w
  5. Triggers 
  6. Data Collection & Processing
 
-## Objectives and Goals
 
-### What do we want users to do on The Chocolate Shop website?
-
-**Objectives**:  Increase in Revenue, Brand Awarness
-**Goals**:
-**Macro & Micro Conversions**: 
