@@ -1,7 +1,15 @@
 # Measurement Plan - The Chocolate Shop
 
+## Triggers
 
-## About -  [The Chocolate Shop](https://the-chocolate-shop-demo.netlify.app/)
+### **What has to happen on the website for us to track a specific event?**
 
-The Chocolate Shop was founded in 2010 by a group of chocolate enthusiasts who wanted to share their love of chocolate with the world. Since then, they have become a beloved destination for chocolate lovers everywhere, offering a wide selection of artisanal chocolates in a variety of flavors and styles.
+User has to take perticular action to trigger the specific event, for example adding dark chocolate to the cart, or removing or updating the chocolate quanitities
+
+|**Event Name**|**Trigger Description**  |
+| --- | --- | 
+|ViewProduct |User clicks the "Add to Cart" button|
+|AddToCart | User clicks the "Add to Cart" button | 
+|AddPaymentInfo| User adds payment information | 
+|SignUpNewsletter| User signs up for the newsletter | 
 
