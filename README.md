@@ -1,7 +1,15 @@
 # Measurement Plan - The Chocolate Shop
 
+## Content & Properties
 
-## About -  [The Chocolate Shop](https://the-chocolate-shop-demo.netlify.app/)
+###  What data are we collecting? which parts of the website, what kind of events?
 
-The Chocolate Shop was founded in 2010 by a group of chocolate enthusiasts who wanted to share their love of chocolate with the world. Since then, they have become a beloved destination for chocolate lovers everywhere, offering a wide selection of artisanal chocolates in a variety of flavors and styles.
+**Pages:** All web pages
 
+**Sections:** All sections
+
+**Elements:** reading FAQs
+
+**Events:** Add to cart, Newsletter Sign up, Contact form submission
+
+**Interaction of the website:** Clicking, reading reviews, Zoom in and zoom out Chocolate  images, submitting buttons, filling forms, scrolling the website
