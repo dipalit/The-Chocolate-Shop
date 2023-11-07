@@ -8,7 +8,7 @@
 
 |**Objectives**|**Goals**  |**KPIs**|**Metrics**|
 | --- | --- | --- | --- |
-|Increase in sales|Increase revenue by 5% YoY |conversion rate|#Total revenue|
+|Increase in sales|Increase revenue by 5% YoY |Conversion rate|#Total revenue|
 |  |  |  | #Item purchased  |
 | Generate Brand Awareness | Gain new visitors by 10% YoY | Unique visitors | #No. of organic users** |
 |  |  | Social media engagement rate | Likes, shares, comments, saves |
