@@ -1,7 +1,11 @@
 # Measurement Plan - The Chocolate Shop
 
+## KPIs & Metrics
 
-## About -  [The Chocolate Shop](https://the-chocolate-shop-demo.netlify.app/)
+### ### How are we going to evaluate whether our goals have been met or not? What will the data you gather help you with specifically?
 
-The Chocolate Shop was founded in 2010 by a group of chocolate enthusiasts who wanted to share their love of chocolate with the world. Since then, they have become a beloved destination for chocolate lovers everywhere, offering a wide selection of artisanal chocolates in a variety of flavors and styles.
+### (K)PIs: what numbers should be reported in order to evaluate whether our goals are met for the respective event?
 
+|**Objectives**|**Goals**  |**KPIs**|**Metrics**|
+|Increase in sales|Increase revenue by 5% YoY|conversion rate| #Total revenue |
+| - | - |-|#Item purchased  |  
