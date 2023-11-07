@@ -7,5 +7,4 @@
 ### (K)PIs: what numbers should be reported in order to evaluate whether our goals are met for the respective event?
 
 |**Objectives**|**Goals**  |**KPIs**|**Metrics**|
-|Increase in sales|Increase revenue by 5% YoY|conversion rate| #Total revenue |
-| - | - |-|#Item purchased  |  
+|Increase in sales|Increase revenue by 5% YoY |conversion rate|#Total revenue|
