@@ -9,5 +9,5 @@ User has to take perticular action to trigger the specific event, for example ad
 For more information, Check Trigger Files. 
 
 
-**Back:** [The Measurement Plan](https://github.com/dipalit/repository/tree/Overview---Measurement-Plan)    
-**Next:** [Data Collection & Processing](https://github.com/dipalit/repository/tree/Content-%26-Properties) 
+**Back:** [The Measurement Plan](https://github.com/dipalit/The-Chocolate-Shop/tree/Overview---Measurement-Plan)    
+**Next:** [Data Collection & Processing](https://github.com/dipalit/The-Chocolate-Shop/tree/Content-%26-Properties) 
