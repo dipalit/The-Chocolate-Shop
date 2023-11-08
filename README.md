@@ -1,21 +1,27 @@
 # Measurement Plan - The Chocolate Shop
 
+## Data Collection & Processing
 
-## About -  [The Chocolate Shop](https://the-chocolate-shop-demo.netlify.app/)
+### Are there any restrictions or things to keep in mind in regards to our tracking setup?
 
-The Chocolate Shop was founded in 2010 by a group of chocolate enthusiasts who wanted to share their love of chocolate with the world. Since then, they have become a beloved destination for chocolate lovers everywhere, offering a wide selection of artisanal chocolates in a variety of flavors and styles.
+#### Methods and Processes for Data Collection: 
 
-# Index of Branches 
+1. Google Analytics 4, 
+2. Google Tag Manager
+3. Hubspot CRM
+4. Mailchimp
+5. Hotjar
+6. VWO
+7. SproutSocial
 
-From here you can navigate between different branches
+   
+#### Data Storage: 
 
-[The Measurement Plan](https://github.com/dipalit/The-Chocolate-Shop/tree/Overview---Measurement-Plan)  
-[Objectives & Goals](https://github.com/The-Chocolate-Shop/dipalit/tree/Objectives-%26-Goals)  
-[Content & Properties ](https://github.com/dipalit/The-Chocolate-Shop/tree/Content-%26-Properties)  
-[KPIS & Metrics](https://github.com/dipalit/The-Chocolate-Shop/tree/KPIs-%26-Metrics)  
-[Tools & Methods](https://github.com/dipalit/The-Chocolate-Shop/tree/Tools-%26-Methods)  
-[Triggers](https://github.com/dipalit/The-Chocolate-Shop/tree/Triggers)  
-[Data Collection & Processing](https://github.com/dipalit/The-Chocolate-Shop/tree/Data-Collection-%26-Processing)  
+1. Google Bigquery
+2. SQL
+
+**Back:** [The Measurement Plan](https://github.com/dipalit/repository/tree/Overview---Measurement-Plan)  
+**Back:** [About The Chocolate Shop](https://github.com/dipalit/The-Chocolate-Shop/tree/main)   
 
 
 
