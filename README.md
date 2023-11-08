@@ -19,5 +19,5 @@
 
 
 
-**Back:** [The Measurement Plan](https://github.com/dipalit/repository/tree/Overview---Measurement-Plan)      
-**Next:** [Triggers](https://github.com/dipalit/repository/tree/Triggers)    
+**Back:** [The Measurement Plan](https://github.com/dipalit/The-Chocolate-Shop/tree/Overview---Measurement-Plan)      
+**Next:** [Triggers](https://github.com/dipalit/The-Chocolate-Shop/tree/Triggers)    
