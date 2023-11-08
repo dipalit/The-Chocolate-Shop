@@ -9,4 +9,4 @@ Purpose of the measurement plan of the chocolate shop's website (e.g., e-commerc
  3. [KPIS & Metrics](https://github.com/dipalit/The-Chocolate-Shop/tree/KPIs-%26-Metrics)  
  4. [Tools & Methods](https://github.com/dipalit/The-Chocolate-Shop/tree/Tools-%26-Methods) 
  5. [Triggers](https://github.com/dipalit/The-Chocolate-Shop/tree/Triggers)
- 6. Data Collection & Processing
+ 6. [Data Collection & Processing](https://github.com/dipalit/The-Chocolate-Shop/tree/Data-Collection-%26-Processing)
