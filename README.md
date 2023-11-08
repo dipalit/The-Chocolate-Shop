@@ -15,5 +15,6 @@ From here you can navigate between different branches
 [KPIS & Metrics](https://github.com/dipalit/The-Chocolate-Shop/tree/KPIs-%26-Metrics)  
 [Tools & Methods](https://github.com/dipalit/The-Chocolate-Shop/tree/Tools-%26-Methods)  
 [Triggers](https://github.com/dipalit/The-Chocolate-Shop/tree/Triggers)  
+[Data Collection & Processing](https://github.com/dipalit/The-Chocolate-Shop/tree/Data-Collection-%26-Processing)  
 
 
