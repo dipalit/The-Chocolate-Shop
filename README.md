@@ -21,5 +21,5 @@
 **Macro conversion** are actions taken by users that servers the primary objective / goal of the business. For example, 
  - Buying chocolates 
 
-**Back:** [The Measurement Plan](https://github.com/dipalit/repository/tree/Overview---Measurement-Plan)    
-**Next:** [Content & Properties ](https://github.com/dipalit/repository/tree/Content-%26-Properties)  
+**Back:** [The Measurement Plan](https://github.com/dipalit/The-Chocolate-Shop/tree/Overview---Measurement-Plan)    
+**Next:** [Content & Properties ](https://github.com/dipalit/The-Chocolate-Shop/tree/Content-%26-Properties)  
