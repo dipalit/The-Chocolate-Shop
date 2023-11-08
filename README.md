@@ -1,5 +1,6 @@
 # Measurement Plan - The Chocolate Shop
 
+## Tools & Methods
 
 ### **What’s the destination of the data?**
 
@@ -16,3 +17,7 @@
 11. **Google Ads**: An online advertising platform developed by Google, where advertisers bid to display brief advertisements, servics, offerings, product listings, or videos to web users.
 12. **Mailchimp or ConvertKit**: Email marketing automation platforms that allow you to create, send, and analyze email campaigns and subscriber interactions.
 
+
+
+**Back:** [The Measurement Plan](https://github.com/dipalit/repository/tree/Overview---Measurement-Plan)      
+**Next:** [Triggers](https://github.com/dipalit/repository/tree/Triggers)    
