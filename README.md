@@ -21,6 +21,7 @@
 2. SQL
 3. Google Data Server
 4. Hubspot CRM
+5. Wordpress
 
 **Back:** [The Measurement Plan](https://github.com/dipalit/The-Chocolate-Shop/tree/Overview---Measurement-Plan)  
 **Back:** [About The Chocolate Shop](https://github.com/dipalit/The-Chocolate-Shop/tree/main)   
