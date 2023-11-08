@@ -14,3 +14,8 @@
 |  |  | Social media engagement rate | Likes, shares, comments, saves |
 |Improve User Experience| Reduce Bounce rate by 10% | Bounce rate |# No. of Engaged sessions |
 |  | Reduce page load speed under 3 sec. | Page load speed | Google page speed insights |
+
+
+
+**Back:** [The Measurement Plan](https://github.com/dipalit/repository/tree/Overview---Measurement-Plan)    
+**Next:** [Tools & Methods](https://github.com/dipalit/repository/tree/Tools-%26-Methods)    
