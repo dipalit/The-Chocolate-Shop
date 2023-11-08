@@ -17,5 +17,5 @@
 
 
 
-**Back:** [The Measurement Plan](https://github.com/dipalit/repository/tree/Overview---Measurement-Plan)    
-**Next:** [Tools & Methods](https://github.com/dipalit/repository/tree/Tools-%26-Methods)    
+**Back:** [The Measurement Plan](https://github.com/dipalit/The-Chocolate-Shop/tree/Overview---Measurement-Plan)    
+**Next:** [Tools & Methods](https://github.com/dipalit/The-Chocolate-Shop/tree/Tools-%26-Methods)    
