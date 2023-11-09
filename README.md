@@ -1,4 +1,4 @@
-# Measurement Plan - The Chocolate Shop
+# :chocolate_bar: The Chocolate Shop 
 
 
 ## About -  [The Chocolate Shop](https://the-chocolate-shop-demo.netlify.app/)
