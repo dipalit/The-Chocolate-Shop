@@ -58,9 +58,10 @@ Purpose of the measurement plan of the chocolate shop's website (e.g., e-commerc
 | --- | --- | --- | --- |
 |Increase in sales|Increase revenue by 5% YoY |Conversion rate|#Total revenue|
 |  |  |  | #Item purchased  |
+|| |Average order value|Revenue per order|
 | Generate Brand Awareness | Gain new visitors by 10% YoY | Unique visitors | #No. of organic users** |
 |  |  | Social media engagement rate | Likes, shares, comments, saves |
-|Improve User Experience| Reduce Bounce rate by 10% | Bounce rate |# No. of Engaged sessions |
+|Improve User Experience| Bounce rate under 10% | Bounce rate |# No. of Engaged sessions |
 |  | Reduce page load speed under 3 sec. | Page load speed | Google page speed insights |
 
 ## 4. Tools & Methods
