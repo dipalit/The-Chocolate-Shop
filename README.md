@@ -1,5 +1,27 @@
 # Measurement Plan - The Chocolate Shop
 
+## Objectives and Goals
+
+### What do we want users to do on The Chocolate Shop website?
+
+|Objectives| Goals |
+|--|--|
+| Increase in sales of Chocolates | Increase revenue by 10%
+|Generate Brand Awarness abot TCS| Gain new visitors by 5% |
+
+#### **Macro & Micro Conversions**: 
+
+ **Micro-conversions**  are small steps users take to reach the primary goal. for example, 
+ - Browsing various chocolate product pages and looking at the pricing
+ - Reading reviews
+ - Signing up for the newsletter
+ - Contact TCS for more information
+
+**Macro conversion** are actions taken by users that servers the primary objective / goal of the business. For example, 
+ - Buying chocolates 
+
+=======
+
 ## KPIs & Metrics
 
 ### How are we going to evaluate whether our goals have been met or not? What will the data you gather help you with specifically?
@@ -16,6 +38,3 @@
 |  | Reduce page load speed under 3 sec. | Page load speed | Google page speed insights |
 
 
-
-**Back:** [The Measurement Plan](https://github.com/dipalit/The-Chocolate-Shop/tree/Overview---Measurement-Plan)    
-**Next:** [Tools & Methods](https://github.com/dipalit/The-Chocolate-Shop/tree/Tools-%26-Methods)    
