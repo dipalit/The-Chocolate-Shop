@@ -17,7 +17,31 @@
 11. **Google Ads**: An online advertising platform developed by Google, where advertisers bid to display brief advertisements, servics, offerings, product listings, or videos to web users.
 12. **Mailchimp or ConvertKit**: Email marketing automation platforms that allow you to create, send, and analyze email campaigns and subscriber interactions.
 
+## Data Collection & Processing
+
+### Are there any restrictions or things to keep in mind in regards to our tracking setup?
+
+#### Methods and Processes for Data Collection: 
+
+1. Google Analytics 4, 
+2. Google Tag Manager
+3. Hubspot CRM
+4. Mailchimp
+5. Hotjar
+6. VWO
+7. SproutSocial
+
+   
+#### Data Storage: 
+
+1. Google Bigquery
+2. SQL
+3. Google Data Server
+4. Hubspot CRM
+5. Wordpress
 
 
-**Back:** [The Measurement Plan](https://github.com/dipalit/The-Chocolate-Shop/tree/Overview---Measurement-Plan)      
-**Next:** [Triggers](https://github.com/dipalit/The-Chocolate-Shop/tree/Triggers)    
+
+
+
+
