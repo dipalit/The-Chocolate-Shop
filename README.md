@@ -19,6 +19,8 @@ Purpose of the measurement plan of the chocolate shop's website (e.g., e-commerc
 |--|--|
 | Increase in sales of Chocolates | Increase revenue by 10%
 |Generate Brand Awarness abot TCS| Gain new visitors by 5% |
+|Improve User Experience| Bounce rate under 10% |
+|| Reduce page load speed under 3 sec. |
 
 #### **Macro & Micro Conversions**: 
 
