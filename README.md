@@ -20,7 +20,6 @@
 **Macro conversion** are actions taken by users that servers the primary objective / goal of the business. For example, 
  - Buying chocolates 
 
-=======
 
 ## KPIs & Metrics
 
