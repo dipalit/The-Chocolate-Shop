@@ -14,5 +14,13 @@
 
 **Interaction of the website:** Clicking, reading reviews, Zoom in and zoom out Chocolate  images, submitting buttons, filling forms, scrolling the website
 
-**Back:** [The Measurement Plan](https://github.com/dipalit/The-Chocolate-Shop/tree/Overview---Measurement-Plan)    
-**Next:** [KPIS & Metrics](https://github.com/dipalit/The-Chocolate-Shop/tree/KPIs-%26-Metrics)   
+
+## Triggers
+
+### **What has to happen on the website for us to track a specific event?**
+
+User has to take perticular action to trigger the specific event, for example adding dark chocolate to the cart, or removing or updating the chocolate quanitities.
+
+For more information, Check Trigger Files. 
+
+
